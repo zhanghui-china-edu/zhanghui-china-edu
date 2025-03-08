@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+- 🔭 I’m currently working on Notion
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Nothing
+- 🤔 I’m looking for help with Study
+- 💬 Ask me about Noting
+- 📫 How to reach me: Nothing
+- 😄 Pronouns: Nothing
+- ⚡ Fun fact: Nothing
 <!--
 **zhanghui-china-edu/zhanghui-china-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
