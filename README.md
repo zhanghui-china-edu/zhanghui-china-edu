@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Notion
+- 🔭 I’m currently working on Notiong
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with Study
